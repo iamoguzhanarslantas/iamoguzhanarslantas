@@ -1,11 +1,17 @@
 <p align="center">
+  <a href="https://github.com/iamoguzhanarslantas?tab=followers"><img src="https://img.shields.io/github/followers/iamoguzhanarslantas?style=flat-square&logo=github&label=Followers&color=0F766E" alt="Followers" /></a>
+  <a href="https://github.com/iamoguzhanarslantas?tab=repositories"><img src="https://img.shields.io/github/stars/iamoguzhanarslantas?style=flat-square&logo=github&label=Stars&color=0F766E" alt="Stars" /></a>
+  <img src="https://komarev.com/ghpvc/?username=iamoguzhanarslantas&label=Profile+views&color=0F766E&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
   <img src="./assets/header.svg" alt="Oğuzhan Arslantaş · Software Developer · Flutter" width="100%" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B+I%27m+O%C4%9Fuzhan;Software+Developer+focused+on+Flutter;5%2B+years+of+building+software;Shipping+apps+to+Google+Play+%26+App+Store;Currently+building+my+own+products" />
-    <img alt="Hi there, I'm Oğuzhan, a Software Developer focused on Flutter" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0F766E&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B+I%27m+O%C4%9Fuzhan;Software+Developer+focused+on+Flutter;5%2B+years+of+building+software;Shipping+apps+to+Google+Play+%26+App+Store;Currently+building+my+own+products" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B+I%27m+O%C4%9Fuzhan;Software+Developer+focused+on+Flutter;5%2B+years+of+building+software;Shipping+apps+to+Google+Play+%26+App+Store;Turkish+developer+based+in+Paris;Currently+building+my+own+products" />
+    <img alt="Hi there, I'm Oğuzhan, a Software Developer focused on Flutter" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0F766E&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B+I%27m+O%C4%9Fuzhan;Software+Developer+focused+on+Flutter;5%2B+years+of+building+software;Shipping+apps+to+Google+Play+%26+App+Store;Turkish+developer+based+in+Paris;Currently+building+my+own+products" />
   </picture>
 </p>
 
@@ -18,7 +24,7 @@
 
 ## 👋 About me
 
-I'm a software developer from Türkiye with **5+ years** of experience, focused on building cross-platform apps with **Flutter**. These days I'm working on my own products and shipping them to **Google Play** and the **App Store**.
+I'm a Turkish software developer based in **Paris**, with **5+ years** of experience, focused on building cross-platform apps with **Flutter**. These days I'm working on my own products and shipping them to **Google Play** and the **App Store**.
 
 - 📱 Designing, building and publishing my own mobile apps
 - 🧱 Clean, feature-first architecture with Bloc / Cubit and Riverpod
@@ -41,6 +47,27 @@ I'm a software developer from Türkiye with **5+ years** of experience, focused 
   <img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=2DD4BF" alt="Figma" />
 </p>
 
+```mermaid
+flowchart TD
+  F((Flutter)):::core
+  F --> D[Dart]
+  F --> S[State management]
+  S --> S1[Bloc / Cubit]
+  S --> S2[Riverpod]
+  S --> S3[Provider]
+  F --> B[Backend]
+  B --> B1[Firebase]
+  F --> P[Platforms]
+  P --> P1[Android]
+  P --> P2[iOS]
+  F --> T[Tools]
+  T --> T1[Figma]
+  T --> T2[Git]
+  classDef default fill:#0F172A,stroke:#2DD4BF,color:#E2E8F0
+  classDef core fill:#0F766E,stroke:#5EEAD4,color:#FFFFFF
+  linkStyle default stroke:#14B8A6
+```
+
 ## 📱 My apps
 
 <p align="center">
@@ -49,37 +76,15 @@ I'm a software developer from Türkiye with **5+ years** of experience, focused 
   <a href="https://apps.apple.com/fr/developer/oguzhan-arslantas/id6812051503"><img src="https://tools.applemarketingtools.com/api/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" height="54" /></a>
 </p>
 
-## 🚀 Featured projects
-
-<!-- TODO: replace REPO_1..REPO_4, the names and the descriptions with real projects -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/iamoguzhanarslantas/REPO_1">Project one</a></h3>
-      <p>One or two sentences about what this project does and why it's interesting.</p>
-      <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=2DD4BF" alt="Flutter" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/iamoguzhanarslantas/REPO_2">Project two</a></h3>
-      <p>One or two sentences about what this project does and why it's interesting.</p>
-      <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=2DD4BF" alt="Flutter" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/iamoguzhanarslantas/REPO_3">Project three</a></h3>
-      <p>One or two sentences about what this project does and why it's interesting.</p>
-      <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=2DD4BF" alt="Flutter" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/iamoguzhanarslantas/REPO_4">Project four</a></h3>
-      <p>One or two sentences about what this project does and why it's interesting.</p>
-      <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&logo=flutter&logoColor=2DD4BF" alt="Flutter" />
-    </td>
-  </tr>
-</table>
-
 ## 📊 GitHub activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamoguzhanarslantas&theme=algolia&no-frame=true&column=-1&margin-w=8" alt="GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iamoguzhanarslantas&hide_border=true&border_radius=12&background=0B1220&stroke=1E293B&ring=2DD4BF&fire=2DD4BF&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=5EEAD4&sideLabels=E2E8F0&dates=94A3B8&timezone=Europe/Paris" alt="GitHub streak" />
+</p>
 
 <!-- Generated daily by .github/workflows/profile-3d.yml -->
 <p align="center">
@@ -92,6 +97,54 @@ I'm a software developer from Türkiye with **5+ years** of experience, focused 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamoguzhanarslantas/iamoguzhanarslantas/output/github-snake-dark.svg" />
     <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/iamoguzhanarslantas/iamoguzhanarslantas/output/github-snake.svg" />
   </picture>
+</p>
+
+## 📍 Where I am
+
+From **Türkiye** · 📍 Based in **Paris, France**
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Paris",
+        "description": "Where I live and build",
+        "marker-color": "#14B8A6",
+        "marker-symbol": "star"
+      },
+      "geometry": { "type": "Point", "coordinates": [2.3522, 48.8566] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Türkiye",
+        "description": "Where I'm from",
+        "marker-color": "#0F766E",
+        "marker-symbol": "heart"
+      },
+      "geometry": { "type": "Point", "coordinates": [35.2433, 38.9637] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#14B8A6",
+        "stroke-width": 2,
+        "stroke-opacity": 0.8
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[35.2433, 38.9637], [2.3522, 48.8566]]
+      }
+    }
+  ]
+}
+```
+
+<p align="center">
+  <i>If you enjoyed my profile, a ⭐ on this repo would make my day. Thanks for stopping by!</i>
 </p>
 
 <p align="center">
