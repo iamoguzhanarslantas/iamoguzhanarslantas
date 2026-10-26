@@ -47,33 +47,12 @@ I'm a Turkish software developer based in **Paris**, with **5+ years** of experi
   <img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=2DD4BF" alt="Figma" />
 </p>
 
-```mermaid
-flowchart TD
-  F((Flutter)):::core
-  F --> D[Dart]
-  F --> S[State management]
-  S --> S1[Bloc / Cubit]
-  S --> S2[Riverpod]
-  S --> S3[Provider]
-  F --> B[Backend]
-  B --> B1[Firebase]
-  F --> P[Platforms]
-  P --> P1[Android]
-  P --> P2[iOS]
-  F --> T[Tools]
-  T --> T1[Figma]
-  T --> T2[Git]
-  classDef default fill:#0F172A,stroke:#2DD4BF,color:#E2E8F0
-  classDef core fill:#0F766E,stroke:#5EEAD4,color:#FFFFFF
-  linkStyle default stroke:#14B8A6
-```
-
 ## 📱 My apps
 
 <p align="center">
   <a href="https://play.google.com/store/apps/developer?id=O%C4%9Fuzhan+ARSLANTA%C5%9E"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="80" /></a>
   &nbsp;
-  <a href="https://apps.apple.com/fr/developer/oguzhan-arslantas/id6812051503"><img src="https://tools.applemarketingtools.com/api/badges/download-on-the-app-store/black/en-us" alt="Download on the App Store" height="54" /></a>
+  <a href="https://apps.apple.com/fr/developer/oguzhan-arslantas/id6812051503"><img src="./assets/app-store-badge.svg" alt="Download on the App Store" height="54" /></a>
 </p>
 
 ## 📊 GitHub activity
@@ -98,50 +77,6 @@ flowchart TD
     <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/iamoguzhanarslantas/iamoguzhanarslantas/output/github-snake.svg" />
   </picture>
 </p>
-
-## 📍 Where I am
-
-From **Türkiye** · 📍 Based in **Paris, France**
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Paris",
-        "description": "Where I live and build",
-        "marker-color": "#14B8A6",
-        "marker-symbol": "star"
-      },
-      "geometry": { "type": "Point", "coordinates": [2.3522, 48.8566] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "title": "Türkiye",
-        "description": "Where I'm from",
-        "marker-color": "#0F766E",
-        "marker-symbol": "heart"
-      },
-      "geometry": { "type": "Point", "coordinates": [35.2433, 38.9637] }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#14B8A6",
-        "stroke-width": 2,
-        "stroke-opacity": 0.8
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [[35.2433, 38.9637], [2.3522, 48.8566]]
-      }
-    }
-  ]
-}
-```
 
 <p align="center">
   <i>If you enjoyed my profile, a ⭐ on this repo would make my day. Thanks for stopping by!</i>
