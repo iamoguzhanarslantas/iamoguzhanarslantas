@@ -24,7 +24,7 @@
 
 ## 👋 About me
 
-I'm a Turkish software developer based in **Paris**, with **5+ years** of experience, focused on building cross-platform apps with **Flutter**. These days I'm working on my own products and shipping them to **Google Play** and the **App Store**.
+I'm a Turkish software developer based in **Paris**, with **5+ years** of experience, focused on building cross-platform apps with **Flutter** <img src="./assets/dash.png" alt="Dash, the Flutter mascot" height="28" />. These days I'm working on my own products and shipping them to **Google Play** and the **App Store**.
 
 - 📱 Designing, building and publishing my own mobile apps
 - 🧱 Clean, feature-first architecture with Bloc / Cubit and Riverpod
