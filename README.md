@@ -34,9 +34,9 @@ I'm a Turkish software developer based in **Paris**, with **5+ years** of experi
 ## 📱 My apps
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/developer?id=O%C4%9Fuzhan+ARSLANTA%C5%9E"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="80" /></a>
+  <a href="https://play.google.com/store/apps/developer?id=O%C4%9Fuzhan+ARSLANTA%C5%9E"><img src="./assets/google-play-badge.svg" alt="Get it on Google Play" height="54" /></a>
   &nbsp;
-  <a href="https://apps.apple.com/fr/developer/oguzhan-arslantas/id6812051503"><img src="./assets/app-store-badge.svg" alt="Download on the App Store" height="80" /></a>
+  <a href="https://apps.apple.com/fr/developer/oguzhan-arslantas/id6812051503"><img src="./assets/app-store-badge.svg" alt="Download on the App Store" height="54" /></a>
 </p>
 
 ## 📊 GitHub activity
