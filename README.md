@@ -31,46 +31,29 @@ I'm a Turkish software developer based in **Paris**, with **5+ years** of experi
 - 🎨 Turning Figma designs into smooth, polished interfaces
 - 🎸 Off the keyboard: guitar and a few other instruments
 
-## 🛠️ Tech stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-0F172A?style=for-the-badge&logo=flutter&logoColor=2DD4BF" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0F172A?style=for-the-badge&logo=dart&logoColor=2DD4BF" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=2DD4BF" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Bloc_/_Cubit-0F172A?style=for-the-badge" alt="Bloc / Cubit" />
-  <img src="https://img.shields.io/badge/Riverpod-0F172A?style=for-the-badge" alt="Riverpod" />
-  <img src="https://img.shields.io/badge/Provider-0F172A?style=for-the-badge" alt="Provider" />
-  <br />
-  <img src="https://img.shields.io/badge/Android-0F172A?style=for-the-badge&logo=android&logoColor=2DD4BF" alt="Android" />
-  <img src="https://img.shields.io/badge/iOS-0F172A?style=for-the-badge&logo=apple&logoColor=2DD4BF" alt="iOS" />
-  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=2DD4BF" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=2DD4BF" alt="Figma" />
-</p>
-
 ## 📱 My apps
 
 <p align="center">
   <a href="https://play.google.com/store/apps/developer?id=O%C4%9Fuzhan+ARSLANTA%C5%9E"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="80" /></a>
   &nbsp;
-  <a href="https://apps.apple.com/fr/developer/oguzhan-arslantas/id6812051503"><img src="./assets/app-store-badge.svg" alt="Download on the App Store" height="54" /></a>
+  <a href="https://apps.apple.com/fr/developer/oguzhan-arslantas/id6812051503"><img src="./assets/app-store-badge.svg" alt="Download on the App Store" height="80" /></a>
 </p>
 
 ## 📊 GitHub activity
 
+<!-- Images below are generated daily by .github/workflows/profile.yml -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamoguzhanarslantas&theme=algolia&no-frame=true&column=-1&margin-w=8" alt="GitHub trophies" />
+  <img src="https://raw.githubusercontent.com/iamoguzhanarslantas/iamoguzhanarslantas/output/trophies.svg" alt="GitHub trophies" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iamoguzhanarslantas&hide_border=true&border_radius=12&background=0B1220&stroke=1E293B&ring=2DD4BF&fire=2DD4BF&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=5EEAD4&sideLabels=E2E8F0&dates=94A3B8&timezone=Europe/Paris" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/iamoguzhanarslantas/iamoguzhanarslantas/output/streak.svg" alt="GitHub contribution streak" width="100%" />
 </p>
 
-<!-- Generated daily by .github/workflows/profile-3d.yml -->
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-teal.svg" alt="3D contribution graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/iamoguzhanarslantas/iamoguzhanarslantas/output/profile-night-teal.svg" alt="3D contribution graph" width="100%" />
 </p>
 
-<!-- Generated daily by .github/workflows/snake.yml -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamoguzhanarslantas/iamoguzhanarslantas/output/github-snake-dark.svg" />
