@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-labelledby="title">
+  <title id="title">Oğuzhan Arslantaş · Software Developer · Flutter</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#0F2742"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="140" x2="0" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#14B8A6"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#14B8A6" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <path d="M-1200,0 L-1200,236 Q-1050.0,208 -900.0,236 T-600,236 T-300,236 T0,236 T300,236 T600,236 T900,236 T1200,236 T1500,236 T1800,236 T2100,236 T2400,236 L2400,0Z" fill="url(#sea)" opacity="0.35">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="18s" repeatCount="indefinite"/>
+  </path>
+  <path d="M-960,0 L-960,222 Q-840.0,198 -720.0,222 T-480,222 T-240,222 T0,222 T240,222 T480,222 T720,222 T960,222 T1200,222 T1440,222 T1680,222 T1920,222 T2160,222 L2160,0Z" fill="url(#sea)" opacity="0.6">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="480 0" dur="13s" repeatCount="indefinite"/>
+  </path>
+  <path d="M-800,0 L-800,206 Q-700.0,186 -600.0,206 T-400,206 T-200,206 T0,206 T200,206 T400,206 T600,206 T800,206 T1000,206 T1200,206 T1400,206 T1600,206 T1800,206 T2000,206 L2000,0Z" fill="url(#sky)">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <ellipse cx="600" cy="112" rx="460" ry="84" fill="url(#glow)"/>
+
+  <g>
+    <circle cx="396" cy="39" r="0.8" fill="#E2E8F0" opacity="0.39"><animate attributeName="opacity" values="0.39;0.15;0.39" dur="3.4s" begin="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="87" cy="98" r="0.8" fill="#E2E8F0" opacity="0.40"/>
+    <circle cx="505" cy="54" r="1.5" fill="#E2E8F0" opacity="0.38"/>
+    <circle cx="676" cy="171" r="0.8" fill="#E2E8F0" opacity="0.67"><animate attributeName="opacity" values="0.67;0.15;0.67" dur="4.9s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="74" cy="157" r="1.2" fill="#E2E8F0" opacity="0.58"/>
+    <circle cx="647" cy="109" r="1" fill="#E2E8F0" opacity="0.41"/>
+    <circle cx="683" cy="45" r="0.8" fill="#E2E8F0" opacity="0.65"><animate attributeName="opacity" values="0.65;0.15;0.65" dur="2.6s" begin="0.3s" repeatCount="indefinite"/></circle>
+    <circle cx="259" cy="127" r="1.5" fill="#E2E8F0" opacity="0.78"/>
+    <circle cx="560" cy="167" r="1.2" fill="#E2E8F0" opacity="0.51"/>
+    <circle cx="941" cy="130" r="1" fill="#E2E8F0" opacity="0.40"><animate attributeName="opacity" values="0.40;0.15;0.40" dur="3.7s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="418" cy="89" r="0.8" fill="#E2E8F0" opacity="0.41"/>
+    <circle cx="505" cy="140" r="1" fill="#E2E8F0" opacity="0.86"/>
+    <circle cx="509" cy="174" r="0.8" fill="#E2E8F0" opacity="0.77"><animate attributeName="opacity" values="0.77;0.15;0.77" dur="4.7s" begin="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="384" cy="129" r="1.5" fill="#E2E8F0" opacity="0.67"/>
+    <circle cx="549" cy="153" r="1.2" fill="#E2E8F0" opacity="0.61"/>
+    <circle cx="790" cy="24" r="1.2" fill="#E2E8F0" opacity="0.71"><animate attributeName="opacity" values="0.71;0.15;0.71" dur="4.6s" begin="4.0s" repeatCount="indefinite"/></circle>
+    <circle cx="350" cy="78" r="1.2" fill="#E2E8F0" opacity="0.36"/>
+    <circle cx="556" cy="42" r="0.8" fill="#E2E8F0" opacity="0.62"/>
+    <circle cx="273" cy="62" r="1" fill="#E2E8F0" opacity="0.57"><animate attributeName="opacity" values="0.57;0.15;0.57" dur="3.7s" begin="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="213" cy="81" r="1.2" fill="#E2E8F0" opacity="0.84"/>
+    <circle cx="970" cy="157" r="1.2" fill="#E2E8F0" opacity="0.74"/>
+    <circle cx="1164" cy="127" r="1.5" fill="#E2E8F0" opacity="0.88"><animate attributeName="opacity" values="0.88;0.15;0.88" dur="2.9s" begin="0.6s" repeatCount="indefinite"/></circle>
+    <circle cx="289" cy="53" r="1.5" fill="#E2E8F0" opacity="0.81"/>
+    <circle cx="232" cy="61" r="1" fill="#E2E8F0" opacity="0.58"/>
+    <circle cx="448" cy="108" r="1" fill="#E2E8F0" opacity="0.73"><animate attributeName="opacity" values="0.73;0.15;0.73" dur="4.0s" begin="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="804" cy="23" r="1.5" fill="#E2E8F0" opacity="0.57"/>
+    <circle cx="477" cy="94" r="1.5" fill="#E2E8F0" opacity="0.38"/>
+    <circle cx="98" cy="49" r="1" fill="#E2E8F0" opacity="0.41"><animate attributeName="opacity" values="0.41;0.15;0.41" dur="2.8s" begin="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="677" cy="103" r="1.2" fill="#E2E8F0" opacity="0.69"/>
+    <circle cx="102" cy="49" r="1.5" fill="#E2E8F0" opacity="0.43"/>
+    <circle cx="313" cy="72" r="1.2" fill="#E2E8F0" opacity="0.61"><animate attributeName="opacity" values="0.61;0.15;0.61" dur="3.7s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1154" cy="94" r="1.2" fill="#E2E8F0" opacity="0.40"/>
+    <circle cx="139" cy="71" r="1.2" fill="#E2E8F0" opacity="0.61"/>
+    <circle cx="823" cy="100" r="1" fill="#E2E8F0" opacity="0.87"><animate attributeName="opacity" values="0.87;0.15;0.87" dur="2.9s" begin="2.1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="600" y="108" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="700" fill="#F8FAFC" letter-spacing="0.5">Oğuzhan Arslantaş</text>
+  <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="500" fill="#5EEAD4" letter-spacing="4">SOFTWARE DEVELOPER  ·  FLUTTER</text>
+</svg>
